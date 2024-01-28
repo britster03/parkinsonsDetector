@@ -1,0 +1,12 @@
+*{
+    --lightblue : #B9D3E4;
+    --hover : #91afc2;
+    --darkblue : #195D60;
+
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+
+    scroll-behavior: smooth;
+}

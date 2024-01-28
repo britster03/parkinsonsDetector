@@ -1,0 +1,41 @@
+@import url("global.css");
+
+
+#awareness-wrapper {
+    max-width: 75vw;
+    margin: 0 auto;
+    padding: 6rem 0;
+}
+
+h1, h2 {
+    color: var(--darkblue);
+}
+
+.awareness-para {
+    margin-bottom: 15px;
+    line-height: 1.6;
+}
+
+.awareness-consult {
+    color: var(--darkblue);
+}
+
+.awareness-para {
+    margin-bottom: 15px;
+}
+
+.awareness-para li {
+    list-style-type: disc;
+    margin-left: 20px;
+}
+
+.awareness-image {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.awareness-img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
