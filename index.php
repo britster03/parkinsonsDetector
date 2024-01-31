@@ -35,6 +35,8 @@
         </div>
     </div>
 
+
+    
     <script>
         document.getElementById('drop-area').addEventListener('dragover', function (e) {
             e.preventDefault();
